@@ -1,4 +1,4 @@
-#Rev-Bin!
+# Rev-Bin!
 ### by Chetanya Bhan
 
 ## Problem statement
